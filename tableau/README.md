@@ -12,7 +12,7 @@ This directory documents the Tableau dashboard design used to visualise product 
    - Storage and compute usage heat-map
 
 2. **Forecast View**
-   - Predicted vs. actual usage (with 95 % confidence bands)
+   - Predicted vs. actual usage (with 95% confidence bands)
    - 6-month rolling forecast for each metric
    - Section-level drill-down
 

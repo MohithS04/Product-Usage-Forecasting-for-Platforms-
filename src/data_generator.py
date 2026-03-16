@@ -10,7 +10,8 @@ from datetime import date, timedelta
 import numpy as np
 import pandas as pd
 
-import sys, os
+import os
+import sys
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from config.settings import DEFAULT_SECTIONS, METRIC_COLUMNS
 

@@ -4,7 +4,7 @@ A product usage forecasting system that projects infrastructure scaling needs fo
 
 ## Features
 
-- **Usage Forecasting** – Ridge regression model with seasonal features produces 6-month forecasts with 95 % confidence intervals.
+- **Usage Forecasting** – Ridge regression model with seasonal features produces 6-month forecasts with 95% confidence intervals.
 - **Automated Variance Analysis** – Monthly comparison of actual vs. forecasted values, categorised by severity, eliminating manual reconciliation.
 - **Executive Reporting** – Translates complex analytical findings into simple language for product managers.
 - **SQL Analytics** – Ready-to-use queries for data extraction, variance analysis, and infrastructure scaling recommendations.
